@@ -1,0 +1,5 @@
+
+Most popular libraries for Image Processing in Python.
+Numpy: A powerful library for manipulating arrays and matrices.
+SciPy: Provides higher order mathematical operations such as filtering, statistical analysis, image processing etc.
+matplotlib: Provides functions for plotting and other forms of visualization.
