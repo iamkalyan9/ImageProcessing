@@ -9,3 +9,7 @@ In computer vision, an image or a video is taken as input, and the goal is to un
 The main difference between these two approaches are the goals (not the methods used). For example, if the goal is to enhance an image for later use, then this may be called image processing. If the goal is to emulate human vision, like object recognition, defect detection or automatic driving, then it may be called computer vision.
 Basically, Image processing is related to enhancing the image and play with the features like color. While computer vision is related to "Image Understanding" and it can use machine learning as well.
 In Image processing, image is taken as an input and a processed image come as an output but in computer vision image is taken as input and we get information as the output about the image.
+
+
+Reference: Rohit Yadav - Gautam Buddha University
+
