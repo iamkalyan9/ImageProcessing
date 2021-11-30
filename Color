@@ -1,0 +1,7 @@
+Color Images
+•	A color model is a method for specifying colors in some standard way. It generally consists of a 3D coordinate system and a subspace of that system in which each color is represented by a single point.
+•	RGB: In this model, each color is represented as 3 values R, G and B, indicating the amounts of red, green and blue which make up the color.
+•	HSV:
+o	Hue: The “true color” attribute (red, green, blue, orange, yellow, and so on).
+o	Saturation: The amount by which the color as been diluted with white. The more white in the color, the lower the saturation.
+o	Value: The degree of brightness: a well lit color has high intensity; a dark color has low intensity.
